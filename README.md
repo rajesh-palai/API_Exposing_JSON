@@ -1,4 +1,5 @@
 # API EXPOSE
+Database has been prepopulated using Faker Module
 API has been exposed with Two endpoints.
 
 1- one endpoint is to get all the Json data from database and also for post json data into server
